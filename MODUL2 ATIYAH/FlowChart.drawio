@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" modified="2023-10-25T01:19:27.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rOFXAWqcabXflaeB4cEb" version="22.0.7" type="device">
+  <diagram name="Halaman-1" id="PvIj_Y4UyG_aX_3Suo6J">
+    <mxGraphModel dx="2248" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-1" target="6YM4awT1Sz8JPn7A6lC7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-1" value="&lt;b&gt;START&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-2" target="6YM4awT1Sz8JPn7A6lC7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-2" value="Input Tinggi Badan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-5" target="6YM4awT1Sz8JPn7A6lC7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-5" target="6YM4awT1Sz8JPn7A6lC7-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="560" />
+              <mxPoint x="990" y="1080" />
+              <mxPoint x="600" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-38" value="KOSONG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6YM4awT1Sz8JPn7A6lC7-37">
+          <mxGeometry x="-0.7939" y="2" relative="1" as="geometry">
+            <mxPoint y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-5" value="Apakah BMI Kosong/Tidak?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="520" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-6" target="6YM4awT1Sz8JPn7A6lC7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-6" target="6YM4awT1Sz8JPn7A6lC7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-6" value="Menghitung BMI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-8" target="6YM4awT1Sz8JPn7A6lC7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-8" target="6YM4awT1Sz8JPn7A6lC7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-8" target="6YM4awT1Sz8JPn7A6lC7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-8" target="6YM4awT1Sz8JPn7A6lC7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-8" value="Hasil BMI" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="740" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-9" target="6YM4awT1Sz8JPn7A6lC7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-9" value="Overweight&lt;br&gt;&lt;b&gt;(BMI 25.0 - 39.9)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-10" target="6YM4awT1Sz8JPn7A6lC7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-10" value="Normal&lt;br&gt;&lt;b&gt;(BMI 18.5 - 24.9)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-11" target="6YM4awT1Sz8JPn7A6lC7-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-11" value="Underweight&lt;br&gt;&lt;b&gt;(BMI&amp;lt;= 18.4)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-12" target="6YM4awT1Sz8JPn7A6lC7-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-12" value="Obeses&lt;br&gt;&lt;b&gt;(BMI &amp;gt;= 40)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6YM4awT1Sz8JPn7A6lC7-13" target="6YM4awT1Sz8JPn7A6lC7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-13" value="Input Berat Badan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="390" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-32" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6YM4awT1Sz8JPn7A6lC7-40" value="TIDAK KOSONG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="600" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
